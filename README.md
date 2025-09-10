@@ -54,6 +54,8 @@ npm run dev
 
 ## 🌐 Live Demo
 
+[Check out Pokémon characters on a Robot's face](https://vanillajs-reactpokemondex.onrender.com/)
+
 ## 🎯 Learning Outcomes
 
 - Refreshed my knowledge on React hooks and conditional rendering
